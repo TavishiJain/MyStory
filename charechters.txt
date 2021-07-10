@@ -1,0 +1,6 @@
+"charecters"
+Dorothy
+Dragon 
+Scarecrow 
+Wizard
+Aliens 
